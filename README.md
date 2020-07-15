@@ -3,7 +3,7 @@
 # 🐒 ⚡
 
 I’m a software developer who is passionate about build lots of demos and open-source projects.
-Some tecnologies I enjoy working with inclue Javascript Vanilla, Typescript, Angular, React, NodeJS, GraphQL and more ⚡.
+Some tecnologies I enjoy working with include Javascript Vanilla, Typescript, Angular, React, NodeJS, GraphQL and more ⚡.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Silva-466432?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-costa-da-silva/)](https://www.linkedin.com/in/arthur-costa-da-silva/)
 [![Twitter Badge](https://img.shields.io/badge/-@artrogeno-466432?style=flat-square&labelColor=466432&logo=twitter&logoColor=white&link=https://twitter.com/artrogeno)](https://twitter.com/artrogeno)
