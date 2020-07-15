@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Artrogeno/Artrogeno/master/banner-header-cropped.jpg" alt="banner that says Arthur SIlva - software Developer, Specialist in Javascript Vanilla, Typescript, Angular, React, NodeJS">
 
-# 🐒 ⚡
+# Arthur Silva
 
 I’m a software developer who is passionate about build lots of demos and open-source projects.
 Some tecnologies I enjoy working with include Javascript Vanilla, Typescript, Angular, React, NodeJS, GraphQL and more ⚡.
